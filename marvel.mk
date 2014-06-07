@@ -57,7 +57,7 @@ PRODUCT_PACKAGES += \
 # Install software application packages
 ## Marvel-supported packages
 PRODUCT_PACKAGES += \
-    Torch
+    Lightbulb
 
 ## Additonal packages
 PRODUCT_PACKAGES += \
